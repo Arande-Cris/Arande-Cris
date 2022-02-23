@@ -1,7 +1,7 @@
 ## 👋 Oier eu sou a Arandê Cristina, isso mesmo Arandê!
 
 - 🎮 Amante de The Elder Scrolls V - Skyrim
-- 🎓 Formada em Processos de Produção FatecSP
+- 🎓 Formada em Processos de Produção Fatec-SP
 - 🎓 Estudante de Engenharia da Computação na UNIVESP
 - 🌱 QA em constante Evolução
 
