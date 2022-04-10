@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="Cris-VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
    <img align="center" alt="Cris-Cucumber" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" />
    <img align="center" alt="Cris-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
- <img align="center" alt="Cris-Cypress" height="30" width="40" src="https://code.iconify.design/2/2.2.1/iconify.min.js" />
+ 
   <img align="right"  alt="Cris-gif" height="150" style="border-radius:50px;" src="https://acegif.com/wp-content/uploads/cat-typing-12.gif">
  
  
