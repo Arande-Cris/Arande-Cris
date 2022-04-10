@@ -1,4 +1,4 @@
-## 👋 Oier eu sou a Arandê Cristina, isso mesmo Arandê!
+## 👋 Oier eu sou a Arandê Cristina, mas pode me chamar de Cris!
 
 - 🎮 Amante de The Elder Scrolls V - Skyrim
 - 🎓 Formada em Processos de Produção Fatec-SP
