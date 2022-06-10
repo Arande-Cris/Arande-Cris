@@ -1,8 +1,8 @@
 ## 👋 Oier eu sou a Arandê Cristina, mas pode me chamar de Cris!
 
 - 🎮 Amante de The Elder Scrolls V - Skyrim
-- 🎓 Formada em Processos de Produção =>Fatec-SP
-- 🎓 Estudante de Engenharia da Computação =>UNIVESP
+- 🎓 Formada em Processos de Produção => FATEC-SP
+- 🎓 Estudante de Engenharia da Computação => UNIVESP
 - 🌱 QA em constante Evolução
 
  
