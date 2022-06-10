@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
   <a href="https://github.com/Arande-Cris">
   <img  height="165em" src="https://github-readme-stats.vercel.app/api?username=Arande-Cris&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arande-Cris&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arande-Cris&layout=compact&langs_count=7&theme=Dark"/>
    
    
 </div>  
