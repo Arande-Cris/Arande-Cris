@@ -47,5 +47,5 @@ You can click the Preview link to take a look at your changes.
 <a href = "https://t.me/mystica89"><img src = "https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target = "_blank"></a>
 <a href="https://www.youtube.com/channel/UCJbgXMH1XRq_vspatnbAsjg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
    
-  ![Snake animation](https://github.com/Arande-Cris/Arande-Cris/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://raw.githubusercontent.com/Arande-Cris/Arande-Cris/output/github-contribution-grid-snake.svg)
 </div>
