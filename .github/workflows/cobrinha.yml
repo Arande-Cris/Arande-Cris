@@ -17,7 +17,7 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: Arande-Cris
-          outputs: dist/github-contribution-grid-snake.svg
+          output: dist/github-contribution-grid-snake.svg dist/github-contribution-grid-snake.gif
 
       - name: Publicar no branch output
         uses: crazy-max/ghaction-github-pages@v2.1.3
